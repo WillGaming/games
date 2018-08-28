@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-27_2118",
-    "currentPage": "home.html",
+    "currentPage": "hopscotch.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1452,7 +1452,7 @@
         }
       ]
     },
-    "page3.html": {
+    "hopscotch.html": {
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Hopscotch Games",
