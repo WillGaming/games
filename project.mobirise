@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-27_2118",
-    "currentPage": "hopscotch.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,7 +34,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "4.8.1"
   },
   "pages": {
@@ -42,7 +42,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Demo | WillFlaps",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -455,8 +455,8 @@
     "about.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
-        "title": "About Us | WillFlaps",
-        "order": 3
+        "title": "About | WillFlaps",
+        "order": 4
       },
       "components": [
         {
@@ -1495,7 +1495,7 @@
       "settings": {
         "meta_descr": "hopscotch games made by WillFlaps\n",
         "title": "Original Games | WillFlaps",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -2018,7 +2018,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Flappy Games | WillFlaps",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
