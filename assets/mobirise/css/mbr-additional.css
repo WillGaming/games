@@ -4468,12 +4468,24 @@ body {
   padding-bottom: 1.5rem;
 }
 .cid-r23YdiMPOz {
-  background: linear-gradient(45deg, #7fd9fc, #6576aa);
+  background: linear-gradient(45deg, #55b4d4, #e5658a);
 }
 .cid-r23Z8UGuHu {
-  background: linear-gradient(45deg, #fbac7f, #e5658a);
+  background: linear-gradient(45deg, #e5658a, #55b4d4);
 }
 .cid-r23Z8UGuHu .mbr-section-subtitle {
   font-style: italic;
   letter-spacing: 1rem;
+}
+.cid-r24QjOD9PR {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #55b4d4, #ff7f9f);
+}
+.cid-r24QjOD9PR .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-r24QjOD9PR .social-list a:focus {
+  text-decoration: none;
 }
