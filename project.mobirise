@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png"
   },
@@ -179,7 +179,7 @@
           "price2": "0",
           "period2": "per month",
           "list2": "<ul><li><b>Everything</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"hopscotch.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
           "title3": "PREMIUM",
           "currency3": "$",
           "price3": "0",
@@ -191,7 +191,7 @@
           "price4": "0",
           "period4": "per month",
           "list4": "<ul><li><b>Everything</b></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"hopscotch.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
           "title5": "EXTENDED",
           "currency5": "$",
           "price5": "0",
@@ -348,6 +348,14 @@
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WillGaming</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-3"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://c.gethopscotch.com/p/zp7qpwosu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Blocky Run Original</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://c.gethopscotch.com/p/zi2oq3z06\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Blocky Run</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-h"
         }
       ]
     },
