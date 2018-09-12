@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WillFlaps Gaming",
-    "currentPage": "page3.html",
+    "currentPage": "hopscotch.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1702,7 +1702,7 @@
         }
       ]
     },
-    "page3.html": {
+    "hopscotch.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Original Games | WillGaming",
