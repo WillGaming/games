@@ -521,30 +521,42 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1227-265x179.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\">CONTACT US</a>",
+          "text1": "<strong>CONTACTS</strong><br>\nEmail: willgamingcomm@gmail.com<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"hopscotch.html\">Hopscotch Games</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"index.html\">Home</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"about.html\">About Us</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "willgamingcomm@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "text1": "",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: willgamingcommunications@gmail.com<br><br>",
-          "text3": "<ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-9"
+          "_name": "contacts3",
+          "_anchor": "contacts3-g"
         }
       ]
     },
