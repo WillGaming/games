@@ -253,7 +253,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\">CONTACT US</a>",
           "text1": "<strong>CONTACTS</strong><br>\nEmail: willgamingcomm@gmail.com<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">Hopscotch Games</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\">Home</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\">About Us</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"hopscotch.html\">Hopscotch Games</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"index.html\">Home</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"about.html\">About Us</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "willgamingcomm@gmail.com",
