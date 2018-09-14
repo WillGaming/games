@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png"
   },
@@ -336,6 +336,19 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-h"
+        },
+        {
+          "text": "<p>More Games Coming soon!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-n",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
