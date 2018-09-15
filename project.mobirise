@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-12_1747",
-    "currentPage": "index.html",
+    "currentPage": "hopscotch.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png"
   },
@@ -349,6 +349,14 @@
               "text-align": "center"
             }
           }
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://willgaming.github.io/games/cubethon\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CUBETHON (PC/MAC EXCLUSIVE)</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-o"
         }
       ]
     },
