@@ -9,28 +9,38 @@
 
 <url>
   <loc>https://willgaming.github.io/games/</loc>
-  <lastmod>2018-09-13T00:38:58+00:00</lastmod>
+  <lastmod>2018-09-18T23:46:14+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://willgaming.github.io/games/index.html</loc>
-  <lastmod>2018-09-13T00:38:58+00:00</lastmod>
+  <lastmod>2018-09-18T23:46:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://willgaming.github.io/games/hopscotch.html</loc>
-  <lastmod>2018-09-13T00:38:58+00:00</lastmod>
+  <loc>https://willgaming.github.io/games/games.html</loc>
+  <lastmod>2018-09-18T23:46:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://willgaming.github.io/games/about.html</loc>
-  <lastmod>2018-09-13T00:38:58+00:00</lastmod>
+  <lastmod>2018-09-18T23:46:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://willgaming.github.io/games/contact.html</loc>
-  <lastmod>2018-09-13T00:38:58+00:00</lastmod>
+  <lastmod>2018-09-18T23:46:14+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://willgaming.github.io/games/hopscotch.html</loc>
+  <lastmod>2018-09-18T23:46:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://willgaming.github.io/games/cubethon</loc>
+  <lastmod>2018-09-18T23:46:14+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
