@@ -725,7 +725,7 @@
           "_anchor": "buttons1-o"
         },
         {
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">CUBERUNNER 2 (CODE FROM ORIGINAL REQUIRED)</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://willgaming.github.io/games/cuberunner2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CUBERUNNER 2 (CODE FROM ORIGINAL REQUIRED)</a>",
           "_tags": [
             "Theme"
           ],
