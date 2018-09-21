@@ -43,11 +43,8 @@
 #ext_menu-3.mbr-navbar--stuck .mbr-navbar__section {
   background: #4c6972;
 }
-#ext_menu-3 .mbr-navbar__section {
-  background: #4c6972;
-}
 #ext_menu-3 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #c1c1c1;
 }
 #content1-n P {
   text-align: center;
