@@ -717,7 +717,7 @@
           }
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://willgaming.github.io/games/cubethon\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CUBERUNNER (PC/MAC EXCLUSIVE)</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://willgaming.github.io/games/cubethon\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SPHERERUNNER (PC/MAC EXCLUSIVE)</a> ",
           "_tags": [
             "Theme"
           ],
@@ -725,7 +725,7 @@
           "_anchor": "buttons1-o"
         },
         {
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://willgaming.github.io/games/cuberunner2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CUBERUNNER 2 (CODE FROM ORIGINAL REQUIRED)</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://willgaming.github.io/games/cuberunner2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SPHERERUNNER 2 (CODE FROM ORIGINAL REQUIRED)</a>",
           "_tags": [
             "Theme"
           ],
