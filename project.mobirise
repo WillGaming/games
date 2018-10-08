@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 26,
+    "uniqCompNum": 27,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png"
   },
@@ -704,7 +704,7 @@
           "_anchor": "buttons1-h"
         },
         {
-          "text": "<p>More Games Coming soon!</p>",
+          "text": "<p>PC/Mac Exlusives</p>",
           "_tags": [
             "Theme"
           ],
@@ -717,7 +717,7 @@
           }
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://willgaming.github.io/games/cubethon\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SPHERERUNNER (PC/MAC EXCLUSIVE)</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://willgaming.github.io/games/cubethon\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SPHERERUNNER</a> ",
           "_tags": [
             "Theme"
           ],
@@ -731,6 +731,14 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-p"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://willgaming.github.io/games/hexidodge\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Hexidodge</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-q"
         }
       ]
     }
