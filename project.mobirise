@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 32,
+    "uniqCompNum": 33,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png"
   },
@@ -107,12 +107,42 @@
             "showMeta": true
           },
           "title": "Best Unblocked Games on Hopscotch out there!",
-          "meta": "-Anonymous",
+          "meta": "-Anonymous<br><br><br>",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
           "_anchor": "header3-k"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-1227-1400x944.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=KhZ5_mIXgZA",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<a href=\"https://willgaming.github.io/games/hexidodge\">Play Hexidodge Now!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-w"
         },
         {
           "_styles": {
