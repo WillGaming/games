@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 28,
+    "uniqCompNum": 32,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png"
   },
@@ -676,7 +676,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/3-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/img-1227-1400x944.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -696,12 +696,49 @@
           "_anchor": "image2-m"
         },
         {
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-s"
+        },
+        {
+          "text": "<p>Mobile Hopscotch Games!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-t",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://c.gethopscotch.com/p/zp7qpwosu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Blocky Run Original</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://c.gethopscotch.com/p/zi2oq3z06\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Blocky Run</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-h"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Donuts and Paper Airplanes</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">On The Line</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-v"
+        },
+        {
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-u"
         },
         {
           "text": "<p>PC/Mac Exlusives</p>",
