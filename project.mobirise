@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-12_1747",
-    "currentPage": "games.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -147,7 +147,7 @@
           },
           "title": "Easy To Play Games!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "Get Started playing WillGaming games by downloading hopscotch, and then heading over to the link below!",
+          "text": "<p>Get Started playing WillGaming games by downloading hopscotch, and then heading over to the link below!</p><p>OR<br>Get Started playing PC Games too at the link below!</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"hopscotch.html\" data-toolbar=\"-mbrBtnMove\">Play Now</a>",
           "_tags": [
             "Theme"
