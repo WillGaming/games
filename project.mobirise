@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 27,
+    "uniqCompNum": 28,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png"
   },
@@ -739,6 +739,14 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-q"
+        },
+        {
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://willgaming.github.io/SnakePC/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JavaScript Snake<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-r"
         }
       ]
     }
