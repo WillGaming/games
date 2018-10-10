@@ -52,3 +52,21 @@
 #content1-n P {
   text-align: center;
 }
+#msg-box4-z .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-z .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-z .mbr-article {
+  color: #ffffff;
+}
+#ext_menu-x .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-x.mbr-navbar--stuck .mbr-navbar__section {
+  background: #4c6972;
+}
+#ext_menu-x .mbr-navbar__hamburger {
+  color: #c1c1c1;
+}
