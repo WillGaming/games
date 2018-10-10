@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WillGaming",
-    "currentPage": "index.html",
+    "currentPage": "games.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 43,
+    "uniqCompNum": 44,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -770,6 +770,14 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-v"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://c.gethopscotch.com/p/zr8knjeek\" data-toolbar=\"-mbrBtnMove\">Orange Dash</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://c.gethopscotch.com/p/zr8knjeek\" data-toolbar=\"-mbrBtnMove\">Orange Dash</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-17"
         },
         {
           "text": "<p><br></p><p><br></p><p><br></p><p><br></p>",
