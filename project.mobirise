@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WillGaming",
-    "currentPage": "games.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 44,
+    "uniqCompNum": 45,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -19,7 +19,7 @@
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-127340825-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-127340825-1');\r\n</script>\r\n",
+    "google-analytics": "<script>\r\nwindow.location.replace('https://willgaming.github.io')\r\n</script>\r\n\r\n<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-127340825-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-127340825-1');\r\n</script>\r\n<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n  (adsbygoogle = window.adsbygoogle || []).push({\r\n    google_ad_client: \"ca-pub-9545614394993750\",\r\n    enable_page_level_ads: true\r\n  });\r\n</script>\r\n",
     "cookiesAlert": "We use cookies to give you the best experience. Click OK to accept",
     "sitemapSwitcher": "on"
   },
@@ -831,6 +831,14 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-r"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://c.gethopscotch.com/p/zp7qpwosu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Ghostrunner</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-18"
         }
       ]
     },
